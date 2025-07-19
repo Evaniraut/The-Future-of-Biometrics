@@ -19,7 +19,7 @@ This report explores the future of biometric authentication, going beyond tradit
 - Conclusion and future scope
 
 ##  Files in this Repo  
-- [https://github.com/Evaniraut/The-Future-of-Biometrics.git](https://github.com/Evaniraut/The-Future-of-Biometrics.git) — Full detailed report including case study and analysis   
+- [EvaniRaut_23047473FinalSubmissionRisk.pdf](https://github.com/Evaniraut/The-Future-of-Biometrics.git) — Full detailed report including case study and analysis   
 
 ##  Key Learnings  
 - Understanding of advanced biometric systems  
